@@ -1,0 +1,15 @@
+{
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "'Cascadia CodePL', Consolas, 'Courier New', monospace",
+    "editor.fontWeight": "bold",
+    "editor.guides.bracketPairs": true,
+    "editor.language.colorizedBracketPairs": [],
+    "editor.guides.highlightActiveBracketPair": true,
+    "editor.bracketPairColorization.enabled": true,
+    "better-comments.highlightPlainText": true,
+    "workbench.colorTheme": "One Dark Pro Darker",
+    "workbench.preferredDarkColorTheme": "One Dark Pro Darker",
+    "workbench.iconTheme": "symbols",
+    "codesnap.transparentBackground": true,
+    "codesnap.boxShadow": "rgba(0, 0, 0, 0.55) 0px 20px 68px"
+}
